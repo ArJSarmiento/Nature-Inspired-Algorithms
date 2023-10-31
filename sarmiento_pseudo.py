@@ -1,6 +1,7 @@
 # %matplotlib inline
-import matplotlib.pyplot as plt
 import random
+
+import matplotlib.pyplot as plt
 import numpy as np
 
 lb_x = -10.0
